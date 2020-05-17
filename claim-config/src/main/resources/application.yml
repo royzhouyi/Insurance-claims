@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: sct-config
+    name: claim-config
   main:
     allow-bean-definition-overriding: true
 

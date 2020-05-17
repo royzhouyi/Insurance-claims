@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: sct-sidecar
+    name: claim-sidecar
 
 eureka:
   instance:

@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: sct-monitor
+    name: claim-monitor
   main:
     allow-bean-definition-overriding: true
 

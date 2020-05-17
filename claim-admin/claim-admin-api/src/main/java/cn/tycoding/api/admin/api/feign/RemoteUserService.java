@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.PathVariable;
  * @author tycoding
  * @date 2019-05-22
  */
-@FeignClient(value = "sct-admin-biz", fallback = RemoteUserServiceFallbackImpl.class)
+@FeignClient(value = "claim-admin-biz", fallback = RemoteUserServiceFallbackImpl.class)
 public interface RemoteUserService {
 
     /**

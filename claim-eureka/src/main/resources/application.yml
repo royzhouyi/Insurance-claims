@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: sct-eureka
+    name: claim-eureka
 
 eureka:
   instance:

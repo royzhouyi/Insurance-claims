@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: sct-auth
+    name: claim-auth
   main:
     allow-bean-definition-overriding: true
 

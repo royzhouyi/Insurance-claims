@@ -1,14 +1,14 @@
 zuul:
   routes:
-    sct-auth:
+    claim-auth:
       path: /api/auth/**
-      serviceId: sct-auth
-    sct-admin:
+      serviceId: claim-auth
+    claim-admin:
       path: /api/admin/**
-      serviceId: sct-admin-biz
-    sct-sidecar:
+      serviceId: claim-admin-biz
+    claim-sidecar:
       path: /api/sidecar/**
-      serviceId: sct-sidecar
+      serviceId: claim-sidecar
 #    sct-monitor:
 #      path: /api/monitor/**
 #      serviceId: sct-monitor

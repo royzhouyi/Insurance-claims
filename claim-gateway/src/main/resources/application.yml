@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: sct-gateway
+    name: claim-gateway
 
   profiles:
     active: dev

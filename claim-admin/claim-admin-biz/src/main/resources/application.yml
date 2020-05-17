@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: sct-admin-biz
+    name: claim-admin-biz
 
   profiles:
     active: dev
