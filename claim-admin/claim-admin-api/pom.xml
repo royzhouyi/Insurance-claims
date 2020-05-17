@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>cn.tycoding</groupId>
-        <artifactId>sct-admin</artifactId>
+        <artifactId>claim-admin</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
@@ -20,7 +20,7 @@
         <!-- 模块依赖 -->
         <dependency>
             <groupId>cn.tycoding</groupId>
-            <artifactId>sct-common</artifactId>
+            <artifactId>claim-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 

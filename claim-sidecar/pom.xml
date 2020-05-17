@@ -4,13 +4,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>cn.tycoding</groupId>
-		<artifactId>sct-api</artifactId>
+		<artifactId>Insurance-claims</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>cn.tycoding</groupId>
-	<artifactId>sct-sidecar</artifactId>
+	<artifactId>claim-sidecar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sct-sidecar</name>
+	<name>claim-sidecar</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -63,6 +63,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
 </project>
