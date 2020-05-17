@@ -9,7 +9,7 @@
     </parent>
     <artifactId>claim-auth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sct-auth</name>
+    <name>claim-auth</name>
     <packaging>jar</packaging>
 
     <properties>

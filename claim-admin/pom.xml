@@ -13,6 +13,6 @@
 
     <modules>
         <module>claim-admin-api</module>
-        <module>sct-admin-biz</module>
+        <module>claim-admin-biz</module>
     </modules>
 </project>

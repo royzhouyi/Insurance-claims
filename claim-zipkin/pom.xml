@@ -7,9 +7,9 @@
         <artifactId>Insurance-claims</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>sct-zipkin</artifactId>
+    <artifactId>claim-zipkin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sct-zipkin</name>
+    <name>claim-zipkin</name>
     <packaging>jar</packaging>
 
     <dependencies>

@@ -9,7 +9,7 @@
     </parent>
     <artifactId>claim-common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sct-common</name>
+    <name>claim-common</name>
     <packaging>jar</packaging>
 
     <properties>

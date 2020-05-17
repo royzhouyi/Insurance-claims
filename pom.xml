@@ -10,7 +10,7 @@
     <groupId>cn.tycoding</groupId>
     <artifactId>Insurance-claims</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sct-api</name>
+    <name>Insurance-claims</name>
     <packaging>pom</packaging>
 
     <properties>
@@ -87,7 +87,7 @@
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-starter-eureka</artifactId>
-                <version>${spring-cloud.version}</version>
+                <version>${zipkin.version}</version>
             </dependency>
 
             <dependency>
