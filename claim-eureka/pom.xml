@@ -25,7 +25,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>cn.tycoding.api.eureka.EurekaApplication</mainClass>
+                    <mainClass>com.insurance.claim.EurekaApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

@@ -1,6 +1,6 @@
-package cn.tycoding.api.common.controller;
+package com.insurance.claim.controller;
 
-import cn.tycoding.api.common.utils.QueryPage;
+import com.insurance.claim.utils.QueryPage;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import com.google.common.base.Supplier;

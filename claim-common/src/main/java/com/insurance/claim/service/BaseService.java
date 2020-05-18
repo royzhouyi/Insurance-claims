@@ -1,4 +1,4 @@
-package cn.tycoding.api.common.service;
+package com.insurance.claim.service;
 
 import java.util.List;
 

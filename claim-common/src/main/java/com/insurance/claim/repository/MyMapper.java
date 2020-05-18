@@ -1,4 +1,4 @@
-package cn.tycoding.api.common.repository;
+package com.insurance.claim.repository;
 
 import tk.mybatis.mapper.common.Mapper;
 import tk.mybatis.mapper.common.MySqlMapper;

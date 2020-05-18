@@ -1,4 +1,4 @@
-package cn.tycoding.api.common.constant;
+package com.insurance.claim.constant;
 
 /**
  * 系统通用  常量值

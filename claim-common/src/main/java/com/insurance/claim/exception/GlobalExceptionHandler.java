@@ -1,6 +1,6 @@
-package cn.tycoding.api.common.exception;
+package com.insurance.claim.exception;
 
-import cn.tycoding.api.common.utils.Result;
+import com.insurance.claim.utils.Result;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;

@@ -1,6 +1,6 @@
-package cn.tycoding.api.common.service.impl;
+package com.insurance.claim.service.impl;
 
-import cn.tycoding.api.common.service.BaseService;
+import com.insurance.claim.service.BaseService;
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package cn.tycoding.api.common.utils;
+package com.insurance.claim.utils;
 
 import lombok.Data;
 import lombok.ToString;

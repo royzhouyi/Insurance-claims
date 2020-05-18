@@ -1,4 +1,4 @@
-package cn.tycoding.api.common.constant.enums;
+package com.insurance.claim.constant.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

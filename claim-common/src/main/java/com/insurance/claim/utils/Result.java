@@ -1,7 +1,7 @@
-package cn.tycoding.api.common.utils;
+package com.insurance.claim.utils;
 
-import cn.tycoding.api.common.constant.CommonConstants;
-import cn.tycoding.api.common.constant.enums.CommonEnums;
+import com.insurance.claim.constant.CommonConstants;
+import com.insurance.claim.constant.enums.CommonEnums;
 import lombok.*;
 
 import java.io.Serializable;
