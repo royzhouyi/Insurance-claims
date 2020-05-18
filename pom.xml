@@ -22,12 +22,7 @@
 
     <modules>
         <module>claim-eureka</module>
-        <module>claim-config</module>
-        <module>claim-auth</module>
         <module>claim-gateway</module>
-        <module>claim-zipkin</module>
-        <module>claim-monitor</module>
-        <module>claim-admin</module>
         <module>claim-common</module>
         <module>claim-sidecar</module>
     </modules>
