@@ -1,4 +1,4 @@
-package cn.tycoding.api.gateway.config;
+package com.insurance.claim.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
